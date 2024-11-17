@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
  if("a" == "a")
 	printf("Yes, equal.");
